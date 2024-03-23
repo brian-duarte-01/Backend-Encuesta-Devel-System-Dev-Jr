@@ -6,3 +6,6 @@ En este apartado estaré explicando paso por paso el desarrollo del backend de l
 # Documentación
 
 Se realizo la documentación del proceso del sprints y los backlogs que se realizó en Jira Software, además se realizó la documentación del proceso de la base de datos de como estará estructurada y su diagrama entidad relación de igual manera se realizó para el proceso del desarrollo del backend de cómo funciona los controladores o el backend en sí.
+
+# Jira Software
+Se realizo por medio de Jira Software el sprint en donde se creó los backlogs de las tareas que se tenía que realizar durante este desarrollo del backend de la prueba técnica.
