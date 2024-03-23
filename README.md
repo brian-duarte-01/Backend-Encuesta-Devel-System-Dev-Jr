@@ -32,6 +32,20 @@ El diagrama se realizo en la herramienta de excalidraw.
 
 ![Imagen de WhatsApp 2024-03-22 a las 18 41 31_748db099](https://github.com/brian-duarte-01/Backend-Encuesta-Devel-System-Dev-Jr/assets/81836728/e4268853-c915-4c42-90f1-370f10ba2b65)
 
+# Backend
+
+Se realizo la documentación de los controladores en donde se planifico que EndPoint se van a crear, Se realizo en la herramienta de LucidChart.
+
+![Diagrama en blanco](https://github.com/brian-duarte-01/Backend-Encuesta-Devel-System-Dev-Jr/assets/81836728/7110202c-d6b9-476f-bf9a-50077a7ffc68)
+
+En este diagrama se representa como funcionara cada controlador al implementar dos patrones en el cual se usó el patrón de diseño inyección de dependencia en donde nos servirá para separar la lógica de nuestro controlador y el patrón de diseño singleton nos servirá para separar la cadena de conexión de nuestro modelo y a la vez tener una mejor seguridad de nuestra cadena de conexión.
+
+![estructura del controlador](https://github.com/brian-duarte-01/Backend-Encuesta-Devel-System-Dev-Jr/assets/81836728/0d6e19eb-69ba-4e91-ba90-bb484332e406)
+
+
+
+
+
 
 
 
