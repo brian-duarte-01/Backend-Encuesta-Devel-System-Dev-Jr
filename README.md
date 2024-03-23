@@ -50,8 +50,7 @@ Se realizo el diagrama de como funcionara el backend.
 
 ![image](https://github.com/brian-duarte-01/Backend-Encuesta-Devel-System-Dev-Jr/assets/81836728/1faa8b56-253f-495d-993f-2e71765bf06d)
 
-
-
+![image](https://github.com/brian-duarte-01/Backend-Encuesta-Devel-System-Dev-Jr/assets/81836728/db2d0bd1-109f-46f7-99cd-4688785e4be3)
 
 
 
