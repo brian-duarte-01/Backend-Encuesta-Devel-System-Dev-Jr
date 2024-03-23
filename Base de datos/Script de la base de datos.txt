@@ -1,0 +1,49 @@
+Create database Encuesta_Devel;
+
+use Encuesta_Devel
+
+Script de la tabla encuesta:
+
+Create table encuesta(
+id_encuesta int identity(1,1) not null primary Key,
+e_nombre_encuesta varchar(2000),
+e_descripcion varchar(2000),
+e_titulo_pregunta_1 varchar(2000),
+e_descrip_pregunta_1 varchar(2000),
+e_respuesta_1 varchar(2000),
+e_titulo_pregunta_2 varchar(2000),
+e_descrip_pregunta_2 varchar(2000),
+e_respuesta_2 varchar(2000),
+e_titulo_pregunta_3 varchar(2000),
+e_descrip_pregunta_3 varchar(2000),
+e_respuesta_3 varchar(2000),
+e_titulo_pregunta_4 varchar(2000),
+e_descrip_pregunta_4 varchar(2000),
+e_respuesta_4 varchar(2000),
+e_titulo_pregunta_5 varchar(2000),
+e_descrip_pregunta_5 varchar(2000),
+e_respuesta_5 varchar(2000),
+e_usuario varchar(2000),
+e_encuestador varchar(2000),
+e_fecha varchar(2000)
+);
+
+Script de la tabla usuario:
+
+create table usuario(
+id_usuario int identity(1,1)not null primary key,
+u_nick varchar(2000),
+u_password varchar(2000)
+);
+
+Script de la tabla encuestador:
+
+create table encuestador(
+id_encuestador int identity(1,1)not null primary key,
+e_primer_nombre varchar(2000),
+e_segundo_nombre varchar(2000),
+e_primer_apellido varchar(2000),
+e_segundo_apellido varchar(2000),
+e_telefono int,
+correo varchar(2000)
+);
