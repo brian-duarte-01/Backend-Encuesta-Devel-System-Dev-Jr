@@ -110,6 +110,111 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "Backend_Encuesta_Devel_System.Controllers.UsuarioController",
+    "Method": "get",
+    "RelativePath": "api/Usuario",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Backend_Encuesta_Devel_System.Controllers.UsuarioController",
+    "Method": "post",
+    "RelativePath": "api/Usuario",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Backend_Encuesta_Devel_System.Request.UsuarioRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Backend_Encuesta_Devel_System.Controllers.UsuarioController",
+    "Method": "put",
+    "RelativePath": "api/Usuario/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "request",
+        "Type": "Backend_Encuesta_Devel_System.Request.UsuarioRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Backend_Encuesta_Devel_System.Controllers.UsuarioController",
+    "Method": "delete",
+    "RelativePath": "api/Usuario/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Backend_Encuesta_Devel_System.Controllers.UsuarioController",
+    "Method": "getBuscar",
+    "RelativePath": "api/Usuario/Buscar",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nick",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Backend_Encuesta_Devel_System.Controllers.UsuarioController",
+    "Method": "getCount",
+    "RelativePath": "api/Usuario/Count",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Backend_Encuesta_Devel_System.Controllers.UsuarioController",
+    "Method": "getVisualizar",
+    "RelativePath": "api/Usuario/Visualizar/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "Backend_Encuesta_Devel_System.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",
