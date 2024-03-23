@@ -46,6 +46,11 @@ Se realizo el diagrama de como funcionara el backend.
 
 ![Imagen de WhatsApp 2024-03-22 a las 18 42 58_c8bad775](https://github.com/brian-duarte-01/Backend-Encuesta-Devel-System-Dev-Jr/assets/81836728/40399c4b-6388-41e9-a934-5582e305e00b)
 
+# Backend Funcionando
+
+![image](https://github.com/brian-duarte-01/Backend-Encuesta-Devel-System-Dev-Jr/assets/81836728/1faa8b56-253f-495d-993f-2e71765bf06d)
+
+
 
 
 
