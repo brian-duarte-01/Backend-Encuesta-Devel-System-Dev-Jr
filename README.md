@@ -9,3 +9,8 @@ Se realizo la documentación del proceso del sprints y los backlogs que se reali
 
 # Jira Software
 Se realizo por medio de Jira Software el sprint en donde se creó los backlogs de las tareas que se tenía que realizar durante este desarrollo del backend de la prueba técnica.
+
+El sprint antes de empezar el desarrollo del backend de la prueba técnica.
+
+![Captura de pantalla 2024-03-22 184709](https://github.com/brian-duarte-01/Backend-Encuesta-Devel-System-Dev-Jr/assets/81836728/fd39b4a2-8404-447a-a8e8-164bec27db30)
+
