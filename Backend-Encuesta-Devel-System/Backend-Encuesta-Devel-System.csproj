@@ -19,10 +19,6 @@
 
   <ItemGroup>
     <Folder Include="Models\" />
-    <Folder Include="Interface\" />
-    <Folder Include="Repositorie\" />
-    <Folder Include="Service\" />
-    <Folder Include="Request\" />
   </ItemGroup>
 
 </Project>

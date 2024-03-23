@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Backend-Encuesta-Devel-System")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+53ff39534987a3c2b53c37d449f9272c438be04c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a576203dcd1e0fddd1f1993feb2fa71622ab914")]
 [assembly: System.Reflection.AssemblyProductAttribute("Backend-Encuesta-Devel-System")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Backend-Encuesta-Devel-System")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
