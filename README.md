@@ -42,7 +42,9 @@ En este diagrama se representa como funcionara cada controlador al implementar d
 
 ![estructura del controlador](https://github.com/brian-duarte-01/Backend-Encuesta-Devel-System-Dev-Jr/assets/81836728/0d6e19eb-69ba-4e91-ba90-bb484332e406)
 
+Se realizo el diagrama de como funcionara el backend.
 
+![Imagen de WhatsApp 2024-03-22 a las 18 42 58_c8bad775](https://github.com/brian-duarte-01/Backend-Encuesta-Devel-System-Dev-Jr/assets/81836728/40399c4b-6388-41e9-a934-5582e305e00b)
 
 
 
