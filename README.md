@@ -52,6 +52,12 @@ Se realizo el diagrama de como funcionara el backend.
 
 ![image](https://github.com/brian-duarte-01/Backend-Encuesta-Devel-System-Dev-Jr/assets/81836728/db2d0bd1-109f-46f7-99cd-4688785e4be3)
 
+y por último explicare las carpetas que contienen dentro del repositorio.
+
+-La carpeta llamada Backend-Encuesta-Devel-System esta carpeta es la del proyecto donde se desarrolló el backend.
+-La carpeta llamada Base de datos aquí podemos encontrar los scripts de las tablas y la base de datos exportada de SQL Server.
+-La carpeta llamada documentación se encuesta toda la documentación que se realizó durante el desarrollo del backend.
+
 
 
 
